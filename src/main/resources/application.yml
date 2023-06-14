@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    azure:
+      cosmos:
+        database: user_new
+        populate-query-metrics: true
+        endpoint: https://c62fbdf8-0ee0-4-231-b9ee.documents.azure.com:443/
+        key: jf2mgvVy1Qb4KvbXTVRRqiUgFV853YZHHxDCE5OGQpYuS1uAwEc9JUVJepXwZAOBXwwIaJSzMq5AACDbAhv2mw==
